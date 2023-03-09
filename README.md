@@ -1,1 +1,1 @@
-# wierd-jest-behaviour
+# Weird Jest Behaviour
