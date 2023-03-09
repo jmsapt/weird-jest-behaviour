@@ -1,7 +1,10 @@
 # Weird Jest Behaviour
 
 `node import.js` recognizes there error
+
 `npm test` does not recognize the error, but runs 'correctly'
+
+---
 
 This code has a mistake in line 1 of `import.js` (it is importing from `./export`, when it should be `./export.js`.
 
